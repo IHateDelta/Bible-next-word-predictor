@@ -1,1 +1,1 @@
-# Bible_nn
+# Bible next word predictor
